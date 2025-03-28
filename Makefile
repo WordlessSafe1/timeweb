@@ -7,11 +7,9 @@ clean:
 	rm -rf env/ __pycache__/
 
 test:
-	. env/bin/activate
 	python3 -m pytest
 
 run:
-	. env/bin/activate
 	flask run
 	
 
