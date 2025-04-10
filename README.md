@@ -1,14 +1,10 @@
 # TimeWeb
 A project for CMSC190 - DevOps
 
-## Building the docker container
-```sh
-docker build -t timeweb .
-```
-
 ## Pulling the docker container from DockerHub
+```sh
 docker pull wordlesssafe1/timeweb
-
+```
 
 ## Running the docker container
 First, make a `.env` file and fill out all environment variables you will want.  
