@@ -18,6 +18,7 @@ Recommended variables:
 | GITHUB_USER  | GitHub Username      |
 | GITHUB_EMAIL | GitHub Email Address |
 | GITHUB_TOKEN | GitHub PAT           |
+
 IE:
 ```
 GITHUB_USER=<YOUR_GITHUB_USERNAME>
